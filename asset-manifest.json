@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-flyin-demo/static/css/main.693aa290.css",
+    "main.js": "/react-flyin-demo/static/js/main.0715b8dd.js",
+    "static/js/787.6720ee25.chunk.js": "/react-flyin-demo/static/js/787.6720ee25.chunk.js",
+    "index.html": "/react-flyin-demo/index.html",
+    "main.693aa290.css.map": "/react-flyin-demo/static/css/main.693aa290.css.map",
+    "main.0715b8dd.js.map": "/react-flyin-demo/static/js/main.0715b8dd.js.map",
+    "787.6720ee25.chunk.js.map": "/react-flyin-demo/static/js/787.6720ee25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.693aa290.css",
+    "static/js/main.0715b8dd.js"
+  ]
+}
